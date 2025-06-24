@@ -1,17 +1,17 @@
 {
-    "name": "himiklab/yii2-recaptcha-widget",
+    "name": "mallet-zn/yii2-recaptcha-widget-php8.4",
     "description": "Yii2 Google reCAPTCHA v2 and v3 widget",
-    "keywords": ["yii2", "captcha", "recaptcha", "google", "widget"],
+    "keywords": ["yii2", "captcha", "recaptcha", "google", "widget", "php8.4"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/himiklab/yii2-recaptcha-widget",
-        "issues": "https://github.com/himiklab/yii2-recaptcha-widget/issues"
+        "source": "https://github.com/mallet-zn/yii2-recaptcha-widget-php8.4",
+        "issues": "https://github.com/mallet-zn/yii2-recaptcha-widget-php8.4/issues"
     },
     "authors": [
         {
-            "name": "HimikLab",
-            "homepage": "https://github.com/himiklab/"
+            "name": "Matheus Mallet",
+            "homepage": "https://github.com/mallet-zn/"
         }
     ],
     "require": {
