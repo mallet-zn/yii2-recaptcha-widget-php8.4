@@ -1,5 +1,7 @@
 Google reCAPTCHA widget for Yii2
 ================================
+Este fork contém apenas ajustes simples para compatibilidade com PHP 8.4. Todo o crédito do código original permanece com [HimikLab](https://github.com/himiklab/).
+
 Based on Google reCaptcha API 2.0 and 3.0.
 
 [![Packagist](https://img.shields.io/packagist/dt/himiklab/yii2-recaptcha-widget.svg)]() [![Packagist](https://img.shields.io/packagist/v/himiklab/yii2-recaptcha-widget.svg)]()  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]()
